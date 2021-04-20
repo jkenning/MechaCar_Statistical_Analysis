@@ -31,5 +31,11 @@ The p-value of the linear regression analysis is 5.35e-11, which is smaller than
 
 The r-squared value of the model is 0.7149, which indicates that about 71% of predictions for MPG will be correct. This suggests the linear model is effective at predicting MPG for the car prototypes. 
 
-## 
+## Summary Statistics on Suspension Coils
+
+**The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?**
+
+For Lot 1 and Lot 2 the mean and median are all 1500 psi and there is realtively low variance and standard deviation. However, Lot 3 displays a very high variance compared to the other two lots and has a large standard deviation and likely exceeds the design specs. As a result of Lot 3's deviance it brings down the overall mean value across all three lots and means the overall variance and standard deviation are slightly higher than for Lot 1 and 2 individually. 
+
+
 
