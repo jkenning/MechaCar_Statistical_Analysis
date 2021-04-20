@@ -48,13 +48,13 @@ For Lot 1 and Lot 2 the mean and median are all 1500 psi and there is realtively
 
 ![](https://github.com/jkenning/MechaCar_Statistical_Analysis/blob/main/Images/Suspension_mean_ttest.PNG)
 
-*Figure 1. T-test function performed across all manufacturing lots*
+*Figure 2. T-test function performed across all manufacturing lots*
 
 The p-value for all manufacturing lots is 0.06028 which is a little bit higher than the assumed significant level of 0.05% and suggests that the mean of the three lots and is not significantly different from the population mean. 
 
 ![](https://github.com/jkenning/MechaCar_Statistical_Analysis/blob/main/Images/Manufacturing_lots_ttests.png)
 
-*Figure 2. T-test function performed for each manufacturing lot individually*
+*Figure 3. T-test function performed for each manufacturing lot individually*
 
 Both Lot 1 and Lot 2 also display means that are not significantly different statistically from the population mean. Lot 1 has a p-value of 1 suggesting no statistical difference, and Lot 2 has a p-value of 0.6072 which is also very similar. 
 
